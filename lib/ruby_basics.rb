@@ -7,6 +7,7 @@ end
 
 def assign_variable(value)
   puts "#{value}"
+  "#{value}"
 end
 
 def argue

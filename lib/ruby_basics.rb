@@ -1,6 +1,6 @@
 def division(num1, num2)
- puts "#{num1}/#{num2}"
- ""
+ solution = (num1 / num2)
+ puts "solution"
 end
 
 def assign_variable(value)
@@ -8,9 +8,8 @@ def assign_variable(value)
   "#{value}"
 end
 
-def argue
-  puts argue
-  "argue"
+def argue(ment)
+  "#{ment}"
 end
 
 def greeting

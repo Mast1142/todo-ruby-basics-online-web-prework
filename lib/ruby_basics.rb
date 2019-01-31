@@ -12,7 +12,7 @@ def argue(ment)
   "#{ment}"
 end
 
-def greeting
+def greeting(ment1, ment2)
 
 end
 
